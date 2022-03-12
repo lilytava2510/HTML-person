@@ -1,0 +1,22 @@
+body {
+    background-color: #B2BEB5;
+
+}
+hr {
+  
+  border-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+}
+form {
+  text-align: left;
+  width: 30%
+}
+h1 {
+  color: #FFDEAD;
+}
+h3 {
+  color: #FFDEAD;
+
+}
